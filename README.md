@@ -32,9 +32,13 @@ Note:
 
 1.
 In order to change display Customized cities, days of showing, and to store Appid,.env.local file need to be add
+
 Example: 
+
 VUE_APP_NO_OF_DAYS=3
+
 VUE_APP_WEATHER_APPID=
+
 VUE_APP_CITIES=London,Tokyo,Melbourne,New York,Beijing
 
 - After applied changes in .env.local file, you have to serve/build again to see the result.
